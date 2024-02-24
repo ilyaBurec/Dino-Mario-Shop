@@ -1,1 +1,1 @@
-Price: 50 Coins
+Price: 100 Coins
